@@ -316,6 +316,13 @@ The D-Bus introspection XML is available here: https://github.com/Audio4Linux/JD
       <sub><b>373 words</b></sub>
     </td>
     <td align="center" valign="top">
+      <a href="https://crowdin.com/profile/tachyglossues"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/16138360/medium/4d6a2b47f6bc03515132a7310e27d4d6_default.png" />
+        <br />
+        <sub><b>tachyglossues</b></sub></a>
+      <br />
+      <sub><b>358 words</b></sub>
+    </td>
+    <td align="center" valign="top">
       <a href="https://crowdin.com/profile/gkpiccoli"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15512952/medium/57e54eba4de46714593f1d0dcbcdfa3a.jpeg" />
         <br />
         <sub><b>Gustavo Kureck Piccoli (gkpiccoli)</b></sub></a>
@@ -328,6 +335,13 @@ The D-Bus introspection XML is available here: https://github.com/Audio4Linux/JD
         <sub><b>Noob Zhang (zhanghua000)</b></sub></a>
       <br />
       <sub><b>240 words</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://crowdin.com/profile/kzsuser"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/16189758/medium/b0b9640e2be596e641f458345859f5dd_default.png" />
+        <br />
+        <sub><b>kzsuser</b></sub></a>
+      <br />
+      <sub><b>221 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/AnClark"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15932859/medium/621b49aa22122e6ca25fc819eac5e96f.jpeg" />
@@ -350,6 +364,8 @@ The D-Bus introspection XML is available here: https://github.com/Audio4Linux/JD
       <br />
       <sub><b>167 words</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/so1ar"><img alt="logo" style="width: 64px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1" />
         <br />
@@ -364,14 +380,19 @@ The D-Bus introspection XML is available here: https://github.com/Audio4Linux/JD
       <br />
       <sub><b>114 words</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/james34602"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15764811/medium/9c166ce647706bbfc568c13763b8a50d.jpeg" />
         <br />
         <sub><b>James Fung (james34602)</b></sub></a>
       <br />
       <sub><b>72 words</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://crowdin.com/profile/jaytau"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15142098/medium/010a2b64c5b06dd38710cf0c99776867.png" />
+        <br />
+        <sub><b>Joel Tony (jaytau)</b></sub></a>
+      <br />
+      <sub><b>28 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/arifesat"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15670651/medium/46177c3d13c90ed767700bb49413107f.jpeg" />
@@ -401,12 +422,21 @@ The D-Bus introspection XML is available here: https://github.com/Audio4Linux/JD
       <br />
       <sub><b>11 words</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/artemgrebennikov310"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/13820153/medium/d1565ef34bd253f67a995f1fd3811887.jpg" />
         <br />
         <sub><b>Mr.Positiv (artemgrebennikov310)</b></sub></a>
       <br />
       <sub><b>4 words</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://crowdin.com/profile/qkxhdurkchus"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/16148718/medium/36208d4422f129e9d32ba0e7e675103e.jpeg" />
+        <br />
+        <sub><b>Rkchus Qkxhdu (qkxhdurkchus)</b></sub></a>
+      <br />
+      <sub><b>3 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/dev_trace"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15729737/medium/f515d9ef1eeb393759e7180bc700afc2_default.png" />
@@ -422,8 +452,6 @@ The D-Bus introspection XML is available here: https://github.com/Audio4Linux/JD
       <br />
       <sub><b>2 words</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/berkantdu123"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/14069105/medium/4e62760cfd61cc38a038670d754cee9a.png" />
         <br />
